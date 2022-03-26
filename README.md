@@ -3,7 +3,7 @@
 ## to run the project
 
     - install docker
-    - run this command [ php artisan serve ]
+    - run this command [ docker-compose up  ]
 
 ## to test the project
 
